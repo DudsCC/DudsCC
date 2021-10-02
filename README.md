@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @DudsCC
+- 👀 I’m interested in computer science
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me "monkartic.oficial@gmail.com"
+- 🤝 I'm a beginner in this area, if you can collaborate with tips, I'll be grateful.
+- 🇧🇷 I'm from Brazil.
+- 👩‍💻 I want to learn at least the basics of every programming language.
+- 🧑 I'm 17 years old.
+- 💞 Thank you for visiting my page.
